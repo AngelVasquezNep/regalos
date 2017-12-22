@@ -8,7 +8,7 @@ Este es un optimizador sencillo y practico que nos permitirá introducir las med
 
 ##Medidas
 
-!Ejemplo(./3.jpg)
+![Ejemplo](https://github.com/AngelVasquezNep/regalos/blob/master/3.jpg?raw=true)
 
 ## Instalación
 
