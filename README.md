@@ -6,7 +6,7 @@ Opti es un optimizador de medidas de papel de regalo que fue creado como proyect
 
 Este es un optimizador sencillo y practico que nos permitirá introducir las medidas de nuestro papel para regalos y nos devolverá las medidas exactas para que construyamos la caja con el mayor volumen disponible, tal como se muestra en la imagen siguiente:
 
-##Medidas
+## Medidas
 
 ![Ejemplo](https://github.com/AngelVasquezNep/regalos/blob/master/3.jpg?raw=true)
 
@@ -16,7 +16,7 @@ Este es un optimizador sencillo y practico que nos permitirá introducir las med
 npm install opti
 ```
 
-##Uso
+## Uso
 La función opti nos retornara un objeto con la información que necesitamos para completar nuestra misión.
 
 ```
@@ -31,9 +31,9 @@ console.log(bicicleta.c)
 
 ```
 
- ## Créditos
+## Créditos
 
  - [Angel Vásquez](https://twitter.com/angelmathy)
 
- ## Licencia
+## Licencia
  - [MIT](https://opensource.org/licenses/MIT)
